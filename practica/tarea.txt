@@ -1,0 +1,5 @@
+1.ir a mi casa
+2.canbiarme 
+3.comer
+4.dormir
+5.hacer mi tarea
