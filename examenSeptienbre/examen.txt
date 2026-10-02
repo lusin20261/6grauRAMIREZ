@@ -1,0 +1,8 @@
+entrar a github
+buscar tu repo
+poner code y copiar
+entrar a lab
+buscar alumnos y entrar
+poner git clone control+shif+v y entras
+creas un archivo llamado examen.txt 
+y pones code . y ya fin
